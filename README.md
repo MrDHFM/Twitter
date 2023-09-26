@@ -1,5 +1,5 @@
 
-ouyput Link : https://twitter-clone35.netlify.app
+output Link : https://twitter-clone35.netlify.app
 
 
 
